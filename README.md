@@ -1,5 +1,5 @@
 
-# 🚀 **System Monitoring and Alerting Dashboard**  
+#  **System Monitoring and Alerting Dashboard**  
 
 A comprehensive system monitoring solution leveraging Google Cloud Platform (GCP) APIs, Observium, and Laravel to provide real-time performance metrics, network diagnostics, and automated alerts through Slack and WhatsApp.
 
@@ -42,6 +42,7 @@ Include snapshots here to visualize the key components of your dashboards and to
 
   ![GCP Dashboard](./snapshots/Screenshot_14.png)  
   ![GCP Dashboard](./snapshots/Screenshot_15.png)  
+   ![GCP Dashboard](./snapshots/Screenshot_1.png) 
     ![GCP Dashboard](./snapshots/Screenshot_2.png) 
       ![GCP Dashboard](./snapshots/Screenshot_3.png)  
   ![GCP Dashboard](./snapshots/Screenshot_4.png)  
